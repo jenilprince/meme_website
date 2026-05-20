@@ -1,4 +1,4 @@
-# Meme Website 😄
+# Meme Website
 
 A simple meme website built using Flask, Python, HTML, and CSS.
 
